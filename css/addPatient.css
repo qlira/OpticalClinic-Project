@@ -1,0 +1,180 @@
+/*td {*/
+/*    padding: 10px;*/
+/*    border: 1px solid black;*/
+/*    border-collapse: collapse;*/
+/*}*/
+body{
+    margin: 0 8em 5em 8em;
+}
+
+.page-header{
+    margin-top: 3em;
+    display: inline-flex;
+    width: 100%;
+}
+
+.logo{
+    width: 50%;
+    text-align: center;
+}
+
+.pjesa1{
+    width: 50%;
+    height: auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.pjesa2{
+    margin-top: 3em;
+    width: 100%;
+    height: auto;
+}
+.pjesa3{
+    margin-top: 1em;
+    width: 100%;
+}
+
+.pjesa4{
+    margin-top: 1em;
+    width: 100%;
+}
+.pjesa5{
+    margin-top: 1em;
+    width: 100%;
+}
+
+.pjesa6{
+    margin-top: 1em;
+    width: 100%;
+}
+
+.pjesa7{
+    margin-top: 1em;
+    width: 100%;
+}
+
+.pjesa8{
+    margin-left: 15em;
+    width: 61%;
+}
+
+.final-text{
+    margin-top: 3em;
+    margin-left: 15em;
+    width: 61%;
+}
+
+.end-text{
+    width: 50%;
+    margin-top: 4em;
+    margin-left: 20em;
+}
+
+.end-text p{
+    margin-left: 8em;
+    font-size: 20px;
+}
+#span1{
+    padding-right: 15px;
+    font-weight: bold;
+
+}
+
+#span2{
+    /*border-bottom: 2px solid black;*/
+
+}
+
+#span3{
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+.photo-part{
+    width: 65%;
+    margin-left: 13.5em;
+}
+.photo-part img{
+    width: 400px;
+    height: 400px;
+}
+
+.table1{
+    width: 100%;
+}
+.table1 input {
+    width: 85%;
+    border: none;
+}
+.table2{
+    width: 100%;
+}
+.table3{
+    width: 100%;
+}
+
+.table3 input{
+    width: 93%;
+}
+
+.table4{
+    width: 100%;
+}
+.table4 th{
+    text-align: left;
+    /*width: 100%;*/
+}
+
+.table-flex{
+    width: 100%;
+    display: flex;
+}
+
+.table5{
+    width: 100%;
+}
+.table5 th {
+    text-align: left;
+    /*width: 100%;*/
+}
+.table5 td{
+    width: 50%;
+}
+.table6{
+    width: 100%;
+}
+.table6 td:nth-child(1){
+    width: 30%;
+}
+.table7{
+    width: 100%;
+}
+.table7 th{
+    text-align: left;
+    /*width: 100%;*/
+}
+.table8{
+    width: 100%;
+}
+.table8 th {
+    width: 16.6%;
+    height: 50px;
+    /*background-color: white;*/
+}
+.table8 input{
+    width: 98%;
+    height: 50px;
+}
+th{
+    background-color: grey;
+}
+#add-btn{
+    margin-top: 5em;
+    margin-left: 30em;
+    font-size: 20px;
+}
+#save_btn{
+    margin-top: 5em;
+    margin-left: 28em;
+    font-size: 20px;
+}
